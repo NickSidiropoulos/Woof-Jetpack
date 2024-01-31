@@ -1,29 +1,8 @@
 Woof App
 ==================================
 
-The Woof app is a list of dog photos with information about them including their name, age, and favorite activity. This app also uses Material Design to create a beautiful app experience for the user.
+The Woof app is a LazyColumn List of dog photos with information about them including their name, age, and favorite activity. 
+This app also uses Material Design to create a beautiful app experience for the user.
 
-Introduction
-------------
-
-This is the starter code for the Woof app project. This project is an opportunity for you to learn Material3 and reinforce the concepts you've learned so far in Android Basics with Compose.
-
-Pre-requisites
---------------
-
-- Rows/Columns
-- Modifiers
-- Scaffold
-- Adding images
-- Button click handlers
-- Functions
-- Classes
-- Lists
-- App architecture
-
-Getting Started
----------------
-
-1. Download the project
-2. Open the project in Android Studio
-3. Run the project
+![Screenshot_20240131_141246](https://github.com/NickSidiropoulos/Woof-Jetpack/assets/12250619/86fcccd7-2d96-4f83-aa9c-4fe4954ebfeb)
+![Screenshot_20240131_141218](https://github.com/NickSidiropoulos/Woof-Jetpack/assets/12250619/788ed01b-5d14-46bb-9e70-d673823cba84)
